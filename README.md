@@ -1,2 +1,2 @@
-# Undergrad_Work
-Sample of coursework completed while in undergrad CS program
+# SNHU_Work
+Sample of projects completed while in SNHU's undergrad CS program
